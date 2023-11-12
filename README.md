@@ -5,10 +5,28 @@
 
 Resources Need to be created /installed
 
-Custom VPC
-NatGatway 
-2 subnets(public)
-1 subnet(Private) 
-Route Table  
+-Custom VPC
+
+-NatGatway 
+
+-2 subnets(public)
+
+-1 subnet(Private) 
+
+-Route Table  
+
+-Security Group
+
+-Elastic IP
+
+-2 EC2 Instance
+
+-Internet Gateway
+
+-Application Loan Balance
+
+-apache Webserver
+
+-MySQL DB
 
 

@@ -29,4 +29,7 @@ Resources Need to be created /installed
 
 -MySQL DB
 
+![D41C0CF8-F43B-4BDD-8A0A-2B0B17841DB0](https://github.com/rogerbarrow/Three-Tier-App-Terrafrom/assets/46138186/2b807596-304f-4c2d-9d0f-f5650973b758)
+
+Step 1. Get AWS Provider 
 

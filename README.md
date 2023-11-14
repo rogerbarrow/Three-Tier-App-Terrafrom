@@ -33,3 +33,6 @@ Resources Need to be created /installed
 
 Step 1. Get AWS Provider 
 
+![200696B7-E1BE-442B-A131-B3F51AB40BC9_4_5005_c](https://github.com/rogerbarrow/Three-Tier-App-Terrafrom/assets/46138186/9e57e839-6795-43e4-9620-dd9f3092b2fb)
+
+Step 2. Is to create subnet  2 public subnets and 1 private Subnet
